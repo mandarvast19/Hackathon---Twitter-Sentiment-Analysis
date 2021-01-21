@@ -1,4 +1,4 @@
-# Hackathon---Twitter-Sentiment-Analysis
+# Twitter-Sentiment-Analysis
 Twitter has now become a useful way to build one's business as it helps in giving the brand a voice and a personality.
 The platform is also a quick, easy and inexpensive way to gain valuable insight from the desired audience.
 
